@@ -1,0 +1,8 @@
+Here is the assignment:
+
+1.	Given the attached source data in TSS_EVENT_2019-02-27-12.13.46-01500-02999.txt and the instructions in record_layout.txt use Databricks to load the data into a dataframe.
+2.	Given the attached source data in CAI_BJRY__20210309221212 and the instructions in movement_table_definition.txt use Databricks to load the data into a dataframe.  
+
+Come to the interview prepared to show your notebook and results. We have purposefully included some challenges in this data. Be prepared to discuss the choices you made in your transformation techniques as well as the challenges you faced and how you resolved those challenges.
+
+We would prefer the work be done in Databricks (PySpark), but regular Python is fine if you do not have access to Databricks.  You are welcome to use the Databricks Community Edition.
